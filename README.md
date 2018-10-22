@@ -14,6 +14,9 @@ intel麾下VPU运行TF模型
 
 包括芯片选型手册等
 
+- tensorflow
+
+https://github.com/movidius/ncappzoo.git
 
 ---
 
