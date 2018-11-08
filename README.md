@@ -1,26 +1,20 @@
-﻿[![sites](docs/tfzoo.png)](http://www.tfzoo.com)
+﻿[![sites](tfzoo/tfzoo.png)](http://www.mcuyun.com)
 
-# Myriad
+# [Movidius VPU](https://github.com/tfzoo/Movidius) 
 
-### 简介
 
-intel麾下VPU运行TF模型
+## 简介
 
----
-
-### 组成
-
-- docs
-
-包括芯片选型手册等
-
-- tensorflow
-
-https://github.com/movidius/ncappzoo.git
+适用于Intel Movidius视觉处理单元
 
 ---
 
-### 说明
+## 组成
 
-2018-10-22: 创建工程仓库
+
+
+---
+
+
+
 
