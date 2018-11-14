@@ -1,11 +1,26 @@
-﻿[![sites](tfzoo/tfzoo.png)](http://www.mcuyun.com)
+﻿# [Movidius VPU](https://github.com/tfzoo/Movidius)
+ 
+Intel Movidius视觉处理单元
 
-# [Movidius VPU](https://github.com/tfzoo/Movidius) 
+[![sites](tfzoo/tfzoo.png)](http://www.mcuyun.com)
 
+
+#### 更多关于：[tensorflow zoo](https://github.com/tensorflow/tensorflow.git)可访问 www.tfzoo.com
+
+---
 
 ## 简介
 
-适用于Intel Movidius视觉处理单元
+
+
+官方工程
+
+https://github.com/movidius/ncappzoo.git
+
+同类参考
+
+https://github.com/HornedSungem/SungemSDK.git
+
 
 ---
 
@@ -13,8 +28,8 @@
 
 
 
+
+
 ---
 
-
-
-
+###  www.tfzoo.com  |   qitas@qitas.cn
