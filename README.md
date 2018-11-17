@@ -1,6 +1,6 @@
 ﻿# [Movidius VPU](https://github.com/tfzoo/Movidius)
  
-Intel Movidius视觉处理单元
+Intel Movidius VPU视觉处理单元
 
 [![sites](tfzoo/tfzoo.png)](http://www.mcuyun.com)
 
@@ -17,7 +17,7 @@ Intel Movidius视觉处理单元
 
 https://github.com/movidius/ncappzoo.git
 
-同类参考
+同芯参考
 
 https://github.com/HornedSungem/SungemSDK.git
 
@@ -27,8 +27,13 @@ https://github.com/HornedSungem/SungemSDK.git
 ## 组成
 
 
+#### tensorflow
 
+包括模型 
 
+#### ncsdk
+
+开发工具
 
 ---
 
